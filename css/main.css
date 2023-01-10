@@ -1,5 +1,13 @@
 
 
+@media (max-width: 400px) {
+
+#small {
+  font-size: smaller;
+}
+
+}
+
 .loading h1 {
   margin-right: 20%;
   color: hsl(0, 0%, 68%);
