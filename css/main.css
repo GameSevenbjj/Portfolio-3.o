@@ -3,16 +3,19 @@
     visibility: hidden;
   }
 
-  .btn-1 {
-    margin-bottom: 5%;
-  }
-
+ 
 }
 
 @media (max-width: 400px) {
   #hide {
     visibility: hidden;
+    
   }
+  .btn-1 {
+    position: absolute;
+    margin-bottom: 5%;
+  }
+
 
 }
 
