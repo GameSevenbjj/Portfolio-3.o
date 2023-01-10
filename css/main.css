@@ -11,11 +11,10 @@
     visibility: hidden;
     
   }
- div a .btn {
-    width: 25px;
-    height: 25px;
+ 
+  #small {
+    width: 15px;
   }
-
 
 }
 
