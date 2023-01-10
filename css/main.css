@@ -3,7 +3,11 @@
 @media (max-width: 400px) {
 
 #small {
-  font-size: 4px;
+  font-size: 8px;
+}
+
+#hide {
+  font-size: 8px;
 }
 
 }
